@@ -13,7 +13,7 @@ LocalPDF is a secure, offline desktop application for managing PDF files. It rep
 -   **Compress PDF**: Reduce PDF file size.
 
 ## Download
-You can download the latest version of LocalPDF from the [Releases](https://github.com/YOUR_USERNAME/LocalPDF/releases) page.
+You can download the latest version of LocalPDF from the [Releases](https://github.com/Aditya-Pratap-Singh/LocalPDF/releases) page.
 
 ## Running from Source
 
@@ -24,7 +24,7 @@ You can download the latest version of LocalPDF from the [Releases](https://gith
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/LocalPDF.git
+    git clone https://github.com/Aditya-Pratap-Singh/LocalPDF.git
     cd LocalPDF
     ```
 2.  Install dependencies:
